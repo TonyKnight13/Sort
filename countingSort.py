@@ -1,3 +1,8 @@
+'''
+   思路：
+
+'''
+
 def countingSort(L):
     n = len(L)
     b = [0] * n

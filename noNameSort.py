@@ -1,4 +1,3 @@
-
 def SortV1(L):
     n = len(L)
     for i in range(n):

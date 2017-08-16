@@ -1,3 +1,7 @@
+'''
+ 思路：
+ 
+'''
 #正序
 def bubbleSort(L):
     n = len(L)

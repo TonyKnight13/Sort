@@ -7,5 +7,5 @@ def insertionSort(L):
             if(L[j] > k):
                 L[j + 1] = L[j]
                 L[j] =  k
-            j -=1
+            j -= 1
     return L 

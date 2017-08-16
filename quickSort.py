@@ -1,3 +1,8 @@
+'''
+   思路：
+
+'''
+
 def quickSort(L, low, high):
     i = low
     j = high
